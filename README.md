@@ -1,4 +1,4 @@
-### Hi, I'm Antonio +1👋🏿 
+### Hi, I'm Antonio 👋🏿 
 ![](https://user-images.githubusercontent.com/65862154/89724150-1dcd4d00-d9c5-11ea-96f5-e234b989b52b.png)
 
 
