@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ---
 
-:briefcase: I’m currently working on business website and first web app :grimacing: 
+:briefcase: I’m currently working on my business website & first web app :grimacing: 
 
 :book: I’m currently learning everything!
 
