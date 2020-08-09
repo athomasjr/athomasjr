@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 * [Twitter](https://twitter.com/athomas_jr)
 * [Linkedin](https://www.linkedin.com/in/antonio-thomas-44a267196/)
 * [Facebook](https://www.facebook.com/antonio.thomas.735944?ref=bookmarks)
+* [Dev](https://dev.to/athomasjr)
