@@ -1,5 +1,5 @@
 ### Hi, I'm Antonio 👋🏿 
-![Banner Image](https:/images/profilebanner.png)
+![Banner Image](https://images/profilebanner.png)
 
 
 <!--
