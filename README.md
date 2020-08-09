@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -29,3 +29,12 @@ Here are some ideas to get you started:
 * [Linkedin](https://www.linkedin.com/in/antonio-thomas-44a267196/)
 * [Facebook](https://www.facebook.com/antonio.thomas.735944?ref=bookmarks)
 * [Dev](https://dev.to/athomasjr)
+
+---
+
+:briefcase: I’m currently working on business website and first web app :grimacing: 
+
+:book: I’m currently learning everything!
+
+
+
