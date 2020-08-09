@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 
 ---
 ###### Find me on the web :globe_with_meridians:
-* Item 3a * Item 3b
+* Item 3a 
+* Item 3b
