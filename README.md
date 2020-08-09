@@ -1,7 +1,7 @@
 ### Hi, I'm Antonio 👋🏿 
-![Banner Image](/images/profile-banner.png)
+![](images/profilebanner.png)
 
-
+`
 <!--
 **athomasjr/athomasjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<<<<<<< HEAD
-<img src="images/profile-banner.png"/>
-![Banner Image](https://images/profile-banner.png)
-Format: ![Alt Text](url)
-=======
 
-
->>>>>>> 82786830b0334c415e497b36eabe5c4e519f3d57
 
 
 
