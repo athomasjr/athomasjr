@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Banner Image](https://images/profilebanner.png)
+![Banner Image](images/profile-banner.png)
 
 
 
