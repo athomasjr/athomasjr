@@ -1,4 +1,5 @@
 ### Hi, I'm Antonio 👋🏿 
+![Banner Image](/images/profile-banner.png)
 
 
 <!--
@@ -15,9 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<<<<<<< HEAD
 <img src="images/profile-banner.png"/>
 ![Banner Image](https://images/profile-banner.png)
 Format: ![Alt Text](url)
+=======
+
+
+>>>>>>> 82786830b0334c415e497b36eabe5c4e519f3d57
 
 
 
