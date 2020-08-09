@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 ---
 #### Find me on the web :globe_with_meridians:
-* Item 3a 
+* [Twitter](https://twitter.com/athomas_jr)
 * Item 3b
