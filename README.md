@@ -1,5 +1,5 @@
 ### Hi, I'm Antonio 👋🏿 
-![](https://user-images.githubusercontent.com/65862154/89724125-d8a91b00-d9c4-11ea-9bbb-87d5904f0430.png)
+![](https://user-images.githubusercontent.com/65862154/89724150-1dcd4d00-d9c5-11ea-96f5-e234b989b52b.png)
 
 
 
