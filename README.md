@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ---
 #### Find me on the web :globe_with_meridians:
 * [Twitter](https://twitter.com/athomas_jr)
-* Item 3b
+* [Linkedin] (https://www.linkedin.com/in/antonio-thomas-44a267196/)
