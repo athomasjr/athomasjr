@@ -29,5 +29,15 @@ Here are some ideas to get you started:
 
 ---
 
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=athomasjr&count_private=true&show_icons=true&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0)](https://github.com/athomasjr/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athomasjr&repo=github-readme-stats)](https://github.com/athomasjr/github-readme-stats)
+<a href="https://github.com/athomasjr">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athomasjr&layout=compact&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0"/>
+</a>
+<a href="https://github.com/athomasjr/athomasjr">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=athomasjr&show_icons=true&line_height=27&count_private=true&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0"
+lt="Antonio's GitHub Stats"
+/>
+</a>
+
+<a href="https://github.com/athomasjr/athomasjr">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athomasjr&repo=antoniothomasjr.com&show_icons=true&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0"/>
+</a>
