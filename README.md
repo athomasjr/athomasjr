@@ -1,6 +1,6 @@
-### Hi, I'm Antonio 👋🏿
+<!-- ### Hi, I'm Antonio 👋🏿 -->
 
-![](./images/banner.png)
+[![Header](images/banner.png 'Header')](https://www.antoniothomasjr.com/)
 
 <!--
 **athomasjr/athomasjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 #### Find me on the web :globe_with_meridians:
 
-- [Twitter](https://twitter.com/athomas_jr)
-- [Linkedin](https://www.linkedin.com/in/antonio-thomas-44a267196/)
-- [Facebook](https://www.facebook.com/antonio.thomas.735944?ref=bookmarks)
-- [Dev](https://dev.to/athomasjr)
+![Twitter Follow](https://img.shields.io/twitter/follow/athomas_jr?color=purple&style=social)
 
 ---
 
-:briefcase: I’m currently working on my business website & first web app :grimacing:
+#### 📈 Github Stats
 
-:book: I’m currently learning everything!
+---
+
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=athomasjr&count_private=true&show_icons=true&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0)](https://github.com/athomasjr/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athomasjr&repo=github-readme-stats)](https://github.com/athomasjr/github-readme-stats)
