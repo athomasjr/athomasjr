@@ -1,4 +1,4 @@
-[![Header](images/new-banner.jpeg 'Header')](https://www.antoniothomasjr.com/)
+[![Header](images/athomasjr-banner.jpeg 'Header')](https://www.antoniothomasjr.com/)
 
 ---
 
