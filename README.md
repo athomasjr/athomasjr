@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=7f5af0)
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=Gatsby&logoColor=white&color=7f5af0)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=7f5af0)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=TypeScript&logoColor=white&color=7f5af0)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=7f5af0)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=7f5af0)
 
 ## 📈 Github Stats
