@@ -37,5 +37,5 @@ lt="Antonio's GitHub Stats"
 </a>
 
 <a href="https://github.com/athomasjr/athomasjr">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burn4live&repo=nanny&show_icons=true&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burn4live&repo=nanny&show_icons=true&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0&show_owner"/>
 </a>
