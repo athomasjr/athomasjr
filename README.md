@@ -17,6 +17,8 @@
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=7f5af0)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=7f5af0)
 ![](https://img.shields.io/badge/Code-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=7f5af0)
+![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=7f5af0)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=7f5af0)
 
 ---
 
@@ -40,10 +42,10 @@ lt="Antonio's GitHub Stats"
 <a href="https://github.com/athomasjr/antoniothomasjr.com">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=athomasjr&repo=antoniothomasjr.com&show_icons=true&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0"/>
 </a>
-
+<!--
 <a href="https://github.com/athomasjr/athomasjr">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burn4live&repo=nanny&show_icons=true&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0&show_owner=true"/>
-</a>
+</a> -->
 </p>
 
 <p align="center">
