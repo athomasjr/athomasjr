@@ -4,7 +4,8 @@
 
 ## Connect With Me
 
-![Twitter Follow](https://img.shields.io/twitter/follow/athomas_jr?color=purple&style=social)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/athomas_jr?logoColor=purple)
+
 
 ## 💻 Tools I Use
 
@@ -27,14 +28,19 @@
 <p align="center">
 
 <a href="https://github.com/athomasjr">
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=athomasjr&layout=default&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0"/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=athomasjr&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0&hide_progress=true"/>
 </a>
 
-<a href="https://github.com/athomasjr/athomasjr">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=athomasjr&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0"
-lt="Antonio's GitHub Stats"
-/>
-</a>
+
+[//]: # (<a href="https://github.com/athomasjr/athomasjr">)
+
+[//]: # (<img align="center" src="https://github-readme-stats.vercel.app/api?username=athomasjr&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=fffffe&text_color=94a1b2&bg_color=16161a&icon_color=7f5af0")
+
+[//]: # (lt="Antonio's GitHub Stats")
+
+[//]: # (/>)
+
+[//]: # (</a>)
 </p>
 
 <p align="center">
